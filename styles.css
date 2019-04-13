@@ -1,0 +1,35 @@
+h1 {
+  background: black;
+  color: white;
+}
+.inline {
+  display: inline;
+  background: purple;
+}
+header {
+  position: absolute;
+}
+span {
+  background: yellow;
+}
+p {
+  background: aqua;
+}
+
+.red {
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+#name {
+  margin: 50px;
+  padding: 20px;
+  background: chocolate;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+}
